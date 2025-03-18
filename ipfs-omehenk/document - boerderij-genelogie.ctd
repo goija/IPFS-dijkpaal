@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cherrytree>
+  <bookmarks list=""/>
+  <node unique_id="1" master_id="0" name="gemaal Noord" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1742301725" ts_lastsave="1742302583">
+    <rich_text>Deze tekst beschrijft de bijzonderheden van een specifiek dijktraject, waarschijnlijk in de omgeving van Stavenisse, gezien de verwijzingen naar "dijkpaal" en "gemaal 'De Noord'". Hier is een samenvatting van de belangrijkste punten:
+</rich_text>
+    <rich_text weight="heavy">Geografische en structurele details:</rich_text>
+    <rich_text>
+• </rich_text>
+    <rich_text weight="heavy">Begrenzing:</rich_text>
+    <rich_text>
+
+◇ Het dijkvak wordt begrensd door Gemaal 'De Noord'.
+◇ De dammetjes van het gemaal zijn onderdeel van het dijktraject.
+◇ </rich_text>
+    <rich_text weight="heavy">Dijkovergangen:</rich_text>
+    <rich_text>
+◇ Er zijn diverse dijkovergangen bij specifieke dijkpalen (931+50m, 938, 943, 958+50m).
+◇ Bij dijkpaal 921 is een tijdelijke dijkovergang en een depot.
+
+◇ </rich_text>
+    <rich_text weight="heavy">Buitenberm:</rich_text>
+    <rich_text>
+◇ De buitenberm is onverhard.
+◇ </rich_text>
+    <rich_text link="node 7" weight="heavy">Dijkbekleding</rich_text>
+    <rich_text weight="heavy">:</rich_text>
+    <rich_text>
+◇ De bekleding varieert tussen verschillende</rich_text>
+    <rich_text link="node 15"> dijkpaal-locaties</rich_text>
+    <rich_text>. Er worden verschillende materialen genoemd zoals:
+◇ </rich_text>
+    <rich_text link="node 8">Open steenasfalt</rich_text>
+    <rich_text>
+◇ </rich_text>
+    <rich_text link="node 9">Haringmanblokken</rich_text>
+    <rich_text>
+◇ </rich_text>
+    <rich_text link="node 10">Doorgroeistenen</rich_text>
+    <rich_text>
+◇ </rich_text>
+    <rich_text link="node 11">Vilvoordse steen</rich_text>
+    <rich_text>
+◇ </rich_text>
+    <rich_text link="node 12">Basalt</rich_text>
+    <rich_text>
+◇ </rich_text>
+    <rich_text link="node 13">Beton</rich_text>
+    <rich_text>
+◇ </rich_text>
+    <rich_text link="node 14">Basaltzuilen bij het gemaal.</rich_text>
+    <rich_text>
+
+</rich_text>
+    <rich_text weight="heavy">Natuurlijke en historische aspecten:</rich_text>
+    <rich_text>
+◇ </rich_text>
+    <rich_text link="node 2" weight="heavy">Slikken van de 'Dortsman'</rich_text>
+    <rich_text weight="heavy">:</rich_text>
+    <rich_text>
+◇ Voor het </rich_text>
+    <rich_text link="node 16">dijkvak</rich_text>
+    <rich_text> liggen de </rich_text>
+    <rich_text link="node 2">slikken van de 'Dortsman'</rich_text>
+    <rich_text>, met sporen van bewoning uit de late ijzertijd en/of de Romeinse tijd.
+◇ </rich_text>
+    <rich_text link="node 4" weight="heavy">Schor van de Noordpolder</rich_text>
+    <rich_text weight="heavy">:</rich_text>
+    <rich_text>
+◇ Tussen </rich_text>
+    <rich_text link="node 3">dijkpaal 922 en 936</rich_text>
+    <rich_text> ligt het </rich_text>
+    <rich_text link="node 4">'Schor van de Noordpolde</rich_text>
+    <rich_text>r' met waardevolle flora en fauna, </rich_text>
+    <rich_text link="node 6">beheerd door Staatsbosbeheer.</rich_text>
+    <rich_text>
+</rich_text>
+    <rich_text weight="heavy">Samenvatting:</rich_text>
+    <rich_text>
+De tekst geeft een gedetailleerde beschrijving van de technische en natuurlijke kenmerken van een specifiek dijktraject. Het beschrijft de gebruikte materialen voor de dijkbekleding, de aanwezigheid van historische sporen en de ecologische waarde van het omliggende gebied.
+</rich_text>
+    <node unique_id="5" master_id="0" name="Noordpolder" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1742302143" ts_lastsave="1742302174"/>
+    <node unique_id="6" master_id="0" name="beheerd door Staatsbosbeheer" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1742302185" ts_lastsave="1742302185"/>
+    <node unique_id="4" master_id="0" name="Schor van de Noordpolder'" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1742302063" ts_lastsave="1742302115"/>
+    <node unique_id="2" master_id="0" name="slikken van de 'Dortsman'" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1742301989" ts_lastsave="1742301989"/>
+    <node unique_id="3" master_id="0" name="dijkpaal 922 en 936" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1742302030" ts_lastsave="1742302030"/>
+  </node>
+  <node unique_id="16" master_id="0" name="dijkvak" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1742302550" ts_lastsave="1742302550"/>
+  <node unique_id="15" master_id="0" name="dijkpaal-locaties" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1742302398" ts_lastsave="1742302398"/>
+  <node unique_id="14" master_id="0" name="Basaltzuilen" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1742302364" ts_lastsave="1742302364"/>
+  <node unique_id="13" master_id="0" name="Beton" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1742302350" ts_lastsave="1742302350"/>
+  <node unique_id="12" master_id="0" name="Basalt" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1742302341" ts_lastsave="1742302341"/>
+  <node unique_id="11" master_id="0" name="Vilvoordse steen" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1742302330" ts_lastsave="1742302330"/>
+  <node unique_id="10" master_id="0" name="Doorgroeistenen" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1742302315" ts_lastsave="1742302315"/>
+  <node unique_id="9" master_id="0" name="Haringmanblokken" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1742302301" ts_lastsave="1742302301"/>
+  <node unique_id="7" master_id="0" name="Dijkbekleding:" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1742302234" ts_lastsave="1742302287"/>
+  <node unique_id="8" master_id="0" name="Open steenasfalt" prog_lang="custom-colors" tags="" readonly="0" nosearch_me="0" nosearch_ch="0" custom_icon_id="0" is_bold="0" foreground="" ts_creation="1742302287" ts_lastsave="1742302287"/>
+</cherrytree>
